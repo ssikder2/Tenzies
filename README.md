@@ -1,3 +1,4 @@
+# [Click here to play!](tenzies-rho-seven.vercel.app/)
 
 # Tenzies Game
 
